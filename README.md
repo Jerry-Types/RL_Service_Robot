@@ -1,3 +1,2 @@
-# Proyecto2_IA
-Proyecto 2 del curso de Inteligencia Artificial Final.
-
+# RL_Algorithm Service Robot
+Define the Policy!
